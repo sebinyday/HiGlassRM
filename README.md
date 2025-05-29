@@ -31,7 +31,7 @@ HiGlass_dataset/
 
 ## 🔢 File Counts
 
-| Folder     | # of Files (example) |
+| Folder     | # of Files |
 |------------|----------------------|
 | input/     | 29,071               |
 | deshadow/  | 29,071               |
